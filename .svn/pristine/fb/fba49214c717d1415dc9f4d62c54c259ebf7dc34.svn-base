@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\CHATYDC\redpacketlibrary\libs"><file name="volley-1.0.19.jar" path="D:\CHATYDC\redpacketlibrary\libs\volley-1.0.19.jar"/></source></dataSet><dataSet config="release"><source path="D:\CHATYDC\redpacketlibrary\build-types\release\jniLibs"/></dataSet></merger>

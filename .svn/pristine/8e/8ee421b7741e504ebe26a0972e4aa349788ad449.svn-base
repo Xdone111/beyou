@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\CHATYDC\app\libs"><file name="jackson-all-1.9.11.jar" path="D:\CHATYDC\app\libs\jackson-all-1.9.11.jar"/><file name="umeng-analytics-v5.2.4.jar" path="D:\CHATYDC\app\libs\umeng-analytics-v5.2.4.jar"/><file name="umeng-update-v2.6.0.1.jar" path="D:\CHATYDC\app\libs\umeng-update-v2.6.0.1.jar"/><file name="zxing.jar" path="D:\CHATYDC\app\libs\zxing.jar"/></source></dataSet><dataSet config="release"><source path="D:\CHATYDC\app\src\release\jniLibs"/></dataSet></merger>

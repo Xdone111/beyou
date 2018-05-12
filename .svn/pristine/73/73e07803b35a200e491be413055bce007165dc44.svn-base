@@ -1,0 +1,1110 @@
+[
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fogetpaypwd.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_fogetpaypwd.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_entrustl.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_entrustl.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_search_message.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_row_search_message.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_ktvs_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_ktvs_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_register.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_ktvs.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_ktvs.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_offline_push_settings.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_offline_push_settings.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_transactiondetal.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_transactiondetal.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_header.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_success.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_show_success.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_mainwallet.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_mainwallet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_recall_message.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_row_recall_message.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_address_pay.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_address_pay.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_contact_list.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_chat.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_random_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_random_dialog.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\dropdown_stytle.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\dropdown_stytle.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_details_list_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_details_list_footer.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\load_end_layout.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\load_end_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\content_head_bar.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\content_head_bar.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\lv_header.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\lv_header.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_open_packet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_open_packet_dialog.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\hms_download_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\layout\\hms_download_progress.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_multi_dev_item.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_multi_dev_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_wallet.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_wallet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_listview_footer_view.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_listview_footer_view.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_contact.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_aboutus.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_aboutus.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_voice.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_usercenter.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_usercenter.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_random_detail_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_random_detail_dialog.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_chat_message_list.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_title_bar.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_image.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_context_menu_for_image.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_expression_gridview.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_sent_red_packet.xml",
+        "source": "D:\\CHATYDC\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_sent_red_packet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_robots.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_fragment_robots.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_group_search_message.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_group_search_message.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_new_group.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_new_group.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_search_bar_with_padding.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_error_page.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_error_page.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_record.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_activity_record.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_merchant.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_merchant.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_add_group.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_row_add_group.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_name_password.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_name_password.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_voice_call.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_search_account.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_search_account.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_set_servers.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_set_servers.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_message.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_emojicon.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_modification_ps.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_modification_ps.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_file.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_transaction.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_pick_contact_no_checkbox.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_chat_menu_item.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_group_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_group_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_video.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_context_menu_for_video.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_video_call.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_video_call.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_movie.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_movie.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_send_record_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_send_record_list_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_video_call.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_group_simle_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_group_simle_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_received_red_packet.xml",
+        "source": "D:\\CHATYDC\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_received_red_packet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_red_packet_ack_message.xml",
+        "source": "D:\\CHATYDC\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_red_packet_ack_message.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_address_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_address_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_receive_note.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_receive_note.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_expression.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_group_packet_detail.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_fragment_group_packet_detail.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\create_user_dialog.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\create_user_dialog.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_video.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_scroll_tab_item.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_contacts_header.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_contacts_header.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_search_bar_with_padding.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_group_member.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_activity_group_member.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_robots.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_row_robots.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_logout_actionsheet.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_logout_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_image_grid_fragment.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_image_grid_fragment.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_beautys_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_beautys_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_receipt_explain.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_receipt_explain.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_edit.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_edit.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_capture.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_group_chat_packet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_fragment_group_chat_packet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_increase_address.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_increase_address.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_red_packet_detail.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_activity_red_packet_detail.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_activity_show_big_image.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_quotation.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_quotation.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_forgetps.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_forgetps.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_groupredbag.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_groupredbag.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_item_current.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_item_current.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_single_packet_detail.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_fragment_single_packet_detail.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_black_list.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_black_list.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_image.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_pick_at_user.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_pick_at_user.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_trade_note.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_trade_note.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_test.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_test.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_group_pick_contacts.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hotels_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_hotels_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_result.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_map.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_select_lanuage.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\dialog_select_lanuage.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fast_pay.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_fast_pay.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_emojicon.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_user.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_payment.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_send_record_list_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_send_record_list_header.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_recorder_activity.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_recorder_activity.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_voice_call.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_voice_call.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_base_listview.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_base_listview.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_contact_with_checkbox.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_voice.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_context_menu_for_voice.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\footer_layout.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\footer_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_movie_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_movie_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_trans.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_trans.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_fragment_conversation_list.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\layouot_spinner_country.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\layouot_spinner_country.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_transfer.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_transfer.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_location.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_call_option.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_call_option.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_beautys.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_beautys.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_mall.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_mall.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_group_member_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_group_member_header.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\loading_bar.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\loading_bar.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_create_newcode.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_create_newcode.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_spinner_currency.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_spinner_currency.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_showvideo_activity.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_item_buy.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_item_buy.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_redbag.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_redbag.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_record_list_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_record_list_footer.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_activity_baidumap.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_voice_call.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_receive_note_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_receive_note_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_chatroom_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_chatroom_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_public_groups.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_public_groups.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_footer.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_alert_dialog.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_modification_lable.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_modification_lable.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_diagnose.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_diagnose.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_wallet_address.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_wallet_address.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_popup_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_popup_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_record_fragment.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_record_fragment.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_offline_push.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_offline_push.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\adapter_item_spinner_text.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\adapter_item_spinner_text.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_details_list_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_details_list_header.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_capture.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_capture.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_received_record_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_received_record_list_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_text.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_context_menu_for_text.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_new_chat_room.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_new_chat_room.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_entertainments.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_entertainments.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_voice.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_location.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tradenote.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_tradenote.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_message.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_foods_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_foods_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_rims.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_rims.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_single_chat_packet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_fragment_single_chat_packet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_redbagdetal.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_redbagdetal.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_chat.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_chat.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_confiem_pay.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_confiem_pay.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_location.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_context_menu_for_location.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_item_sell.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_item_sell.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_layout_loading_data.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_layout_loading_data.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_modification_pay.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_modification_pay.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_picture.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_fragment_contact_list.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_new_friends_msg.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_new_friends_msg.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_file.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_entertainments_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_entertainments_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_shared_files.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_shared_files.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_search_bar.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_chatroom_member_menu.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_chatroom_member_menu.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fast_pay1.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_fast_pay1.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_received_random_packet.xml",
+        "source": "D:\\CHATYDC\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_received_random_packet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_shared_file_row.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_shared_file_row.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_video.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_fragment_advert.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_fragment_advert.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\empty_layout.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\empty_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_received_record_list_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_received_record_list_header.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_loading.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_group.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_row_group.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_details_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_details_list_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_widget_contact_item.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_widget_contact_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_grid_owner.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_grid_owner.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_activity_red_packet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_activity_red_packet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_snacks.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_snacks.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_item_history.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_item_history.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_sent_note.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_sent_note.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_receipt.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_receipt.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_conversation_settings.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\a.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\a.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_pay.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\load_failed_layout.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\load_failed_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\load_loading_layout.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\load_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_widget_title_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_widget_title_bar.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_trade_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_trade_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_bigexpression.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_open_exclusive_packet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_open_exclusive_packet_dialog.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_rims_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_rims_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_foods.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_foods.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_snacks_details.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_snacks_details.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_pay_tips_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_pay_tips_dialog.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\redbag.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\redbag.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_commom_back_btn.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_editimage.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_editimage.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_public_groups_search.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_public_groups_search.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_picture.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_choose_record_popup_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_choose_record_popup_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hotel.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_hotel.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_wallet1.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\fragment_wallet1.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\rp_group_member_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eddf90baafe4ce85335339212521fc65b096d4e4\\output\\res\\layout\\rp_group_member_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_sent_random_packet.xml",
+        "source": "D:\\CHATYDC\\redpacketlibrary\\build\\intermediates\\bundles\\default\\res\\layout\\em_row_sent_random_packet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_user_profile.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_user_profile.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_choose_griditem.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_choose_griditem.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_voice_recorder.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_groups.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_fragment_groups.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\popup_text_item.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\popup_text_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_switch_button.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_fragment_chat.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_multi_device.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_multi_device.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_dialog_coin_select.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\view_dialog_coin_select.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_mycode.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\activity_mycode.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_conversation_item.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_redbagdetal.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\item_redbagdetal.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_video_call.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_chat_history.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_row_invite_msg.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_row_invite_msg.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_activity_show_file.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_big_expression.xml",
+        "source": "D:\\CHATYDC\\easeui\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_add_contact.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\layout\\em_activity_add_contact.xml"
+    }
+]

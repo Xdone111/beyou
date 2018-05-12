@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\raw\\em_outgoing.ogg",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\raw\\em_outgoing.ogg"
+    }
+]

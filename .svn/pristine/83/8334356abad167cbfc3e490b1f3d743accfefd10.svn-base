@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_take_red_packet">คุณได้รับเงินจากพวกเขา</string>
+    <string name="msg_take_someone_red_packet">You got Red Packet from %1$s</string>
+    <string name="msg_someone_take_red_packet">%1$s got your Red Packet</string>
+    <string name="easemob_red_packet">ดิจิตอลสินทรัพย์</string>
+    <string name="attach_red_packet">สีแดง</string>
+    <string name="red_packet_record">บันทึกสีแดง</string>
+    <string name="exclusive_red_packet">โบนัสพิเศษ</string>
+    <string name="View_red_packets">ดูที่สีแดง</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:minHeight="?android:attr/listPreferredItemHeight"
+    >
+
+    <TextView
+        android:id="@+id/merchant_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:textSize="20sp"
+        android:layout_marginLeft="10dp"
+        android:layout_alignTop="@+id/img_news_icon"
+        android:layout_toRightOf="@+id/img_news_icon"
+      />
+    <TextView
+        android:id="@+id/Merchant_introduce"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/img_news_icon"
+        android:layout_below="@+id/merchant_name"
+        android:textSize="16sp"
+        android:singleLine="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+      />
+
+    <ImageView
+        android:id="@+id/img_news_icon"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@mipmap/yadun"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY"
+        android:layout_alignParentStart="true"/>
+
+</RelativeLayout>

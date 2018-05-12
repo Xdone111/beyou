@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_user_image.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_user_image.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_send.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_send.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_sweep.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_sweep.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_user_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_user_select.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_user.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_wallet.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_wallet.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_muyin.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_muyin.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_ps.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_ps.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_catalog_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_catalog_select.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_simple_name.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_simple_name.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arrow.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_sports.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_sports.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_add.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_mall.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_mall.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_exit.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_exit.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_user1.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_user1.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_qrcode.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_qrcode.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_mulu_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_mulu_select.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_pay_ps.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_pay_ps.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_wo.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_wo.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_wo_se.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_wo_se.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_bag.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_bag.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_wallet_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_wallet_select.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_shanghu.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_shanghu.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_shopping.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_shopping.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_food.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_food.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\temp.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\temp.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_phone.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_phone.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_demo.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_demo.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_add.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_add.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_adress.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_adress.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_catalog.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_catalog.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\back_redbag.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\back_redbag.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_hufu.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_hufu.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_aboutus.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_aboutus.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_shanghu_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_shanghu_select.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_demoewm.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_demoewm.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\red_reflash.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\red_reflash.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_mall_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_mall_select.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\shop_close.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\shop_close.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_ps1.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_ps1.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\icon_add_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-hdpi\\icon_add_select.png"
+    }
+]

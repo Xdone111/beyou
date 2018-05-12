@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic1.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic1.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic4.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic4.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic8.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic8.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic5.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic5.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic3.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic3.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic10.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic10.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic6.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic6.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic2.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic2.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic7.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-xhdpi\\ic7.png"
+    }
+]

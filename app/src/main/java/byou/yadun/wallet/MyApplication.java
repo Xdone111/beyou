@@ -1,0 +1,89 @@
+package byou.yadun.wallet;
+
+import android.app.Application;
+import android.content.Context;
+import android.support.multidex.MultiDex;
+import android.text.TextUtils;
+
+import com.baidu.mapapi.SDKInitializer;
+import com.easemob.redpacketsdk.RPInitRedPacketCallback;
+import com.easemob.redpacketsdk.RPValueCallback;
+import com.easemob.redpacketsdk.RedPacket;
+import com.easemob.redpacketsdk.bean.RedPacketInfo;
+import com.easemob.redpacketsdk.bean.TokenData;
+import com.easemob.redpacketsdk.constant.RPConstant;
+import com.hyphenate.chat.EMClient;
+import com.hyphenate.chat.EMOptions;
+import com.hyphenate.easeui.domain.EaseUser;
+import com.hyphenate.easeui.utils.EaseUserUtils;
+import com.tencent.bugly.crashreport.CrashReport;
+
+import byou.yadun.wallet.utils.MyMD5;
+
+import org.xutils.x;
+
+/**
+ *
+ */
+public class MyApplication extends Application {
+    public static MyMD5 md5;
+    public static Context applicationContext;
+
+    @Override
+    public void onCreate() {
+        super.onCreate();
+        applicationContext = this;
+        md5 = new MyMD5();
+        CrashReport.initCrashReport(getApplicationContext(), "88f526bbc5", true);
+        SDKInitializer.initialize(getApplicationContext());
+        x.Ext.init(this);
+        //init demo helper
+        ByHelper.getInstance().init(applicationContext);
+        //red packet code : 初始化红包SDK，开启日志输出开关
+        RedPacket.getInstance().initRedPacket(applicationContext, RPConstant.AUTH_METHOD_EASEMOB, new RPInitRedPacketCallback() {
+
+            @Override
+            public void initTokenData(RPValueCallback<TokenData> callback) {
+                TokenData tokenData = new TokenData();
+                tokenData.imUserId = EMClient.getInstance().getCurrentUser();
+                //此处使用环信id代替了appUserId 开发者可传入App的appUserId
+                tokenData.appUserId = EMClient.getInstance().getCurrentUser();
+                tokenData.imToken = EMClient.getInstance().getAccessToken();
+                //同步或异步获取TokenData 获取成功后回调onSuccess()方法
+                callback.onSuccess(tokenData);
+            }
+
+            @Override
+            public RedPacketInfo initCurrentUserSync() {
+                //这里需要同步设置当前用户id、昵称和头像url
+                String fromAvatarUrl = "";
+                String fromNickname = EMClient.getInstance().getCurrentUser();
+                EaseUser easeUser = EaseUserUtils.getUserInfo(fromNickname);
+                if (easeUser != null) {
+                    fromAvatarUrl = TextUtils.isEmpty(easeUser.getAvatar()) ? "none" : easeUser.getAvatar();
+                    fromNickname = TextUtils.isEmpty(easeUser.getNick()) ? easeUser.getUsername() : easeUser.getNick();
+                }
+                RedPacketInfo redPacketInfo = new RedPacketInfo();
+                redPacketInfo.fromUserId = EMClient.getInstance().getCurrentUser();
+                redPacketInfo.fromAvatarUrl = fromAvatarUrl;
+                redPacketInfo.fromNickName = fromNickname;
+                return redPacketInfo;
+            }
+        });
+        EMOptions options = new EMOptions();
+        // 默认添加好友时，是不需要验证的，改成需要验证
+        options.setAcceptInvitationAlways(false);
+        //初始化
+        EMClient.getInstance().init(applicationContext, options);
+        ////在做打包混淆时，关闭debug模式，避免消耗不必要的资源
+        EMClient.getInstance().setDebugMode(false);
+        //是否需要自动登录
+        options.setAutoLogin(false);
+    }
+
+    @Override
+    protected void attachBaseContext(Context base) {
+        super.attachBaseContext(base);
+        MultiDex.install(this);
+    }
+}

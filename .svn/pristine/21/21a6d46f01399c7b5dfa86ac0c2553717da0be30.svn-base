@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "D:\\CHATYDC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 71,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 71,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 312,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 312,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 53,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 484,
+                        "endColumn": 53,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 98,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 98,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endColumn": 99,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 99,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 71,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 71,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 47,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 47,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 130,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 130,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 97,
+                    "endOffset": 1081
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endColumn": 97,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1086,
+                    "endColumn": 103,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1086,
+                        "endColumn": 103,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1190,
+                    "endColumn": 118,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 118,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endColumn": 78,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1309,
+                        "endColumn": 78,
+                        "endOffset": 1383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 54,
+                    "endOffset": 1438
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1388,
+                        "endColumn": 54,
+                        "endOffset": 1438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1443,
+                    "endColumn": 140,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1443,
+                        "endColumn": 140,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 52,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 52,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endColumn": 48,
+                    "endOffset": 1681
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 48,
+                        "endOffset": 1681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1686,
+                    "endColumn": 169,
+                    "endOffset": 1851
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1686,
+                        "endColumn": 169,
+                        "endOffset": 1851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1856,
+                    "endColumn": 129,
+                    "endOffset": 1981
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 129,
+                        "endOffset": 1981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1986,
+                    "endColumn": 78,
+                    "endOffset": 2060
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a49d1e9fa788507057732a1e569288cec1773bfe\\output\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1986,
+                        "endColumn": 78,
+                        "endOffset": 2060
+                    }
+                }
+            }
+        ]
+    }
+]

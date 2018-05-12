@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_wallet.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\menu\\menu_wallet.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_contact_list.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\menu\\em_context_contact_list.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_contact.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\menu\\em_delete_contact.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_remove_from_blacklist.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\menu\\em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_message.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\menu\\em_delete_message.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_tab_contact.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\menu\\em_context_tab_contact.xml"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_multi_device_menu_item.xml",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\menu\\em_multi_device_menu_item.xml"
+    }
+]

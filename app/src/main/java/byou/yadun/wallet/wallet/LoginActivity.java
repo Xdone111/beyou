@@ -1,0 +1,365 @@
+package byou.yadun.wallet.wallet;
+
+import android.app.Dialog;
+import android.content.Intent;
+import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
+import android.text.method.HideReturnsTransformationMethod;
+import android.text.method.PasswordTransformationMethod;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import com.hyphenate.EMCallBack;
+import com.hyphenate.EMError;
+import com.hyphenate.chat.EMClient;
+import com.hyphenate.exceptions.HyphenateException;
+import com.squareup.okhttp.Request;
+
+import byou.yadun.wallet.MainActivity;
+import byou.yadun.wallet.MyApplication;
+import byou.yadun.wallet.R;
+import byou.yadun.wallet.adapter.MyMainWalletAdapter;
+import byou.yadun.wallet.entity.CreateWalletAddressBean;
+import byou.yadun.wallet.entity.MyMainWalletBean;
+import byou.yadun.wallet.entity.UserResponse;
+import byou.yadun.wallet.manager.HttpManager;
+import byou.yadun.wallet.utils.JsonUtil;
+import byou.yadun.wallet.utils.MyMD5;
+import byou.yadun.wallet.utils.NetUtils;
+import byou.yadun.wallet.utils.PreferenceUtil;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * 登陆页面
+ */
+public class LoginActivity extends BaseActivity implements View.OnClickListener {
+    private EditText mEdtUserName;
+    private EditText mEdtPS;
+    private Button mBtnLogin;
+    private Button mBtnSwitch;
+    private TextView mTxtRegister;
+    private TextView mTxtForgetPs;
+    private ImageView mImgShowPS;
+    private ImageView mImgHidePS;
+    private Dialog mDialog;
+    private PreferenceUtil manager;
+    private List mycointypelist;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_login);
+        initView();
+        initEvent();
+    }
+
+    private void initView() {
+        manager = new PreferenceUtil();
+        mEdtUserName = (EditText) findViewById(R.id.edtUserAccount);
+        mEdtPS = (EditText) findViewById(R.id.edtUserPS);
+        mBtnLogin = (Button) findViewById(R.id.btnLogin);
+        mTxtForgetPs = (TextView) findViewById(R.id.txtForgetPs);
+        mTxtRegister = (TextView) findViewById(R.id.txtRegister);
+        mImgHidePS = (ImageView) findViewById(R.id.imgHidePs);
+        mImgShowPS = (ImageView) findViewById(R.id.imgShowPs);
+        mBtnSwitch = (Button) findViewById(R.id.btnSwitch);
+        mycointypelist = new ArrayList();
+        if (manager.getUser("account") != null) {
+            mEdtUserName.setText(manager.getUser("account"));
+        }
+        if (manager.getUser("password") != null) {
+            mEdtPS.setText(manager.getUser("password"));
+        }
+        //登录过
+        if (PreferenceUtil.getInt("hadlogined", 0) == 1998) {
+            if (manager.getUser("account") != null && manager.getUser("password") != null) {
+                login();
+                return;
+            }
+        }
+    }
+
+    private void initEvent() {
+        mEdtUserName.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                mEdtPS.setText("");
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+
+            }
+        });
+        mBtnLogin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (NetUtils.isNetworkAvailable(LoginActivity.this)) {
+                    login();
+                } else {
+                    showToast(getResources().getString(R.string.forbidden_net));
+                }
+            }
+        });
+        mTxtForgetPs.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(LoginActivity.this, ForgetPasswordActivity.class));
+            }
+        });
+        mTxtRegister.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(LoginActivity.this, RegisterActivity.class));
+            }
+        });
+        mImgHidePS.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mImgHidePS.setVisibility(View.GONE);
+                mImgShowPS.setVisibility(View.VISIBLE);
+                mEdtPS.setTransformationMethod(PasswordTransformationMethod.getInstance());
+                mEdtPS.setSelection(mEdtPS.length());
+            }
+        });
+        mImgShowPS.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mImgShowPS.setVisibility(View.GONE);
+                mImgHidePS.setVisibility(View.VISIBLE);
+                mEdtPS.setTransformationMethod(HideReturnsTransformationMethod.getInstance());
+                mEdtPS.setSelection(mEdtPS.length());
+            }
+        });
+        mBtnSwitch.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                displayDialog();
+            }
+        });
+    }
+
+    @Override
+    public void onClick(View v) {
+        mDialog.dismiss();
+        switch (v.getId()) {
+            case R.id.select_english:
+                switchLanguage("en");
+                break;
+            case R.id.select_chinese:
+                switchLanguage("zh");
+                break;
+            case R.id.select_thailand:
+                switchLanguage("th");
+                break;
+        }
+        //更新语言后，destroy当前页面，重新绘制
+        finish();
+        Intent intent = new Intent(LoginActivity.this, LoginActivity.class);
+        startActivity(intent);
+    }
+
+    private void displayDialog() {
+        if (mDialog == null) {
+            LayoutInflater inflater = getLayoutInflater();
+            View layout = inflater.inflate(R.layout.dialog_select_lanuage, null);
+            TextView english = (TextView) layout.findViewById(R.id.select_english);
+            TextView chinese = (TextView) layout.findViewById(R.id.select_chinese);
+            TextView thailand = (TextView) layout.findViewById(R.id.select_thailand);
+            mDialog = new Dialog(LoginActivity.this, R.style.Custom_Dialog_Theme);
+            mDialog.setCanceledOnTouchOutside(false);
+            english.setOnClickListener(LoginActivity.this);
+            chinese.setOnClickListener(LoginActivity.this);
+            thailand.setOnClickListener(LoginActivity.this);
+            mDialog.setContentView(layout);
+        }
+        mDialog.show();
+    }
+
+    public void login() {
+        Map<String, String> parmas = new HashMap<>();
+        if (mEdtUserName.getText().toString().trim().isEmpty()) {
+            showToast(getResources().getString(R.string.login_no_username));
+            return;
+        }
+        if (mEdtPS.getText().toString().trim().isEmpty()) {
+            showToast(getResources().getString(R.string.login_no_password));
+            return;
+        }
+        try {
+            parmas.put("username", mEdtUserName.getText().toString());
+            parmas.put("password", MyMD5.bytesToHex(MyApplication.md5.encrypt(mEdtPS.getText().toString())));
+            Log.d("加密后登录密码", MyMD5.bytesToHex(MyApplication.md5.encrypt(mEdtPS.getText().toString())));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        HttpManager.postAsync(HttpManager.BASE_URL + "api.php/base/login_post_json.html?", parmas,
+                new HttpManager.ResultCallback<UserResponse>() {
+                    @Override
+                    public void onBefore(Request request) {
+                        super.onBefore(request);
+                        showLoadingDialog();
+                    }
+
+                    @Override
+                    public void onError(Request request, Exception e) {
+                        showToast(getResources().getString(R.string.login_net_fail));
+//                dismissLoadingDialog();
+                    }
+
+                    @Override
+                    public void onResponse(UserResponse response) {
+                        Log.e("tag", "_+_+" + response.toString());
+                        if (response.getCode() == 1) {
+                            Log.d("登录成功返回json", response.toString());
+                            String userJson = JsonUtil.toJson(response);
+                            manager.saveUser("userJson", userJson);
+                            UserResponse userResponse = (UserResponse) JsonUtil.read2Object(userJson, UserResponse.class);
+                            PreferenceUtil.commitString("token", userResponse.getToken());
+                            Log.d("done============", userResponse.getToken());
+                            PreferenceUtil.commitString("uid", userResponse.getUid());
+                            manager.saveUser("account", mEdtUserName.getText().toString());
+                            manager.saveUser("password", mEdtPS.getText().toString());
+                            //判断是否登录成功注册过
+                            if (PreferenceUtil.getInt("hadlogin", 1) == 12580) {
+                                loginhy();
+                            } else {
+                                getMainWalletData(userResponse.getUid(), userResponse.getToken());
+                                //注册环信id
+                                try {
+                                    registhx(mEdtUserName.getText().toString(), MyMD5.bytesToHex(MyApplication.md5.encrypt(mEdtPS.getText().toString())));
+                                } catch (Exception e) {
+                                    e.printStackTrace();
+                                }
+                            }
+                        } else {
+                            showToast(response.getMsg());
+                            dismissLoadingDialog();
+                        }
+                    }
+
+                    @Override
+                    public void onAfter() {
+                        super.onAfter();
+//                 dismissLoadingDialog();
+                    }
+                });
+    }
+
+    //注册
+    public void registhx(final String username, final String pwd) {
+        new Thread(new Runnable() {
+            public void run() {
+                try {
+                    // call method in SDK
+                    EMClient.getInstance().createAccount(username, pwd);
+                    loginhy();
+                } catch (final HyphenateException e) {
+                    runOnUiThread(new Runnable() {
+                        public void run() {
+                            int errorCode = e.getErrorCode();
+                            if (errorCode == EMError.NETWORK_ERROR) {
+                                Toast.makeText(getApplicationContext(), "网络异常", Toast.LENGTH_SHORT).show();
+                            } else if (errorCode == EMError.USER_ALREADY_EXIST) {
+                                loginhy();
+//                                ToastUtil.showToast("用户已存在1");
+                            } else if (errorCode == EMError.USER_AUTHENTICATION_FAILED) {
+                                Toast.makeText(getApplicationContext(), "无权限", Toast.LENGTH_SHORT).show();
+                            } else if (errorCode == EMError.USER_ILLEGAL_ARGUMENT) {
+                                Toast.makeText(getApplicationContext(), "非法id", Toast.LENGTH_SHORT).show();
+                            } else {
+                                Toast.makeText(getApplicationContext(), errorCode + "注册失败", Toast.LENGTH_SHORT).show();
+                            }
+                        }
+                    });
+                }
+            }
+        }).start();
+    }
+
+    public void loginhy() {
+        //登录环信
+        try {
+            EMClient.getInstance().login(mEdtUserName.getText().toString(), MyMD5.bytesToHex(MyApplication.md5.encrypt(mEdtPS.getText().toString())), new EMCallBack() {//回调
+                @Override
+                public void onSuccess() {
+                    EMClient.getInstance().groupManager().loadAllGroups();
+                    EMClient.getInstance().chatManager().loadAllConversations();
+                    Log.d("登录", "登录聊天服务器成功！");
+                    PreferenceUtil.commitInt("hadlogin", 12580);
+                    PreferenceUtil.commitInt("hadlogined", 1998);
+                    startActivity(new Intent(LoginActivity.this, MainActivity.class));
+                    dismissLoadingDialog();
+                    finish();
+                }
+
+                @Override
+                public void onProgress(int progress, String status) {
+                }
+
+                @Override
+                public void onError(int code, String message) {
+                    Log.d("登录", "登录聊天服务器失败！" + message);
+                    dismissLoadingDialog();
+//                    Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
+                }
+            });
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    //创建钱包
+    public void CreateQB(String coin, String uid, String token) {
+        Map<String, String> parmas = new HashMap<>();
+        parmas.put("token", token);
+        parmas.put("uid", uid);
+        parmas.put("coin", coin);
+        HttpManager.postAsync(HttpManager.BASE_URL + "api.php/user/usermyzr.html?", parmas, new HttpManager.ResultCallback<CreateWalletAddressBean>() {
+            @Override
+            public void onError(Request request, Exception e) {
+            }
+
+            @Override
+            public void onResponse(final CreateWalletAddressBean response) {
+            }
+        });
+    }
+
+    //获取当前用户所以B种，初始化钱包
+    public void getMainWalletData(final String uid, final String token) {
+        Map<String, String> parmas1 = new HashMap<>();
+        parmas1.put("token", token);
+        parmas1.put("uid", uid);
+        HttpManager.postAsync(HttpManager.BASE_URL + "api.php/user/myAssets.html?", parmas1, new HttpManager.ResultCallback<MyMainWalletBean>() {
+            @Override
+            public void onError(Request request, Exception e) {
+                Log.d("折合资产", e.toString());
+            }
+
+            @Override
+            public void onResponse(MyMainWalletBean response) {
+                int m = response.getData().getCoin().size();
+                for (int i = 0; i < m; i++) {
+                    CreateQB(response.getData().getCoin().get(i).getName(), uid, token);
+                }
+            }
+        });
+    }
+}

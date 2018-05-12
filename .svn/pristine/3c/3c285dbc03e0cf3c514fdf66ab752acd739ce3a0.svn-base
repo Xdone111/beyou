@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:Android="http://schemas.android.com/apk/res-auto"
+    android:background="@color/lightgray"
+    android:orientation="vertical">
+
+    <include layout="@layout/content_head_bar" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@color/lightyellow"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_margin="5dp"
+            android:id="@+id/waring"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="温馨提示"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imgQRCode"
+        android:layout_width="220dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_height="220dp"
+         />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="5dp"
+        android:background="#f7f5f5"
+        android:layout_marginRight="5dp"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:text="@string/userinfo_address"/>
+        <TextView
+            android:id="@+id/MyAdresses"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:background="@null"
+            android:textIsSelectable="true"
+            android:textSize="15dp"
+            android:layout_gravity="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="20dp">
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/btn_sure"
+            android:text="@string/my_code_save_phone"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+</LinearLayout>

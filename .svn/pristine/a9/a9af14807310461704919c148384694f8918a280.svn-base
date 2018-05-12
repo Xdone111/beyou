@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/lightgray"
+    >
+
+    <include layout="@layout/content_head_bar"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <byou.yadun.wallet.view.XListView
+            android:id="@+id/foodsListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:scrollbars="none"
+            android:background="@color/white"
+            />
+        <TextView
+            android:id="@+id/noShop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:visibility="gone"
+            android:text="暂无商户数据！"
+            />
+    </RelativeLayout>
+</LinearLayout>

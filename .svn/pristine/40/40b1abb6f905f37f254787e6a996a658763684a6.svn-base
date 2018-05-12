@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@drawable/click_selector">
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorAccent" />
+
+    <TextView
+        android:id="@+id/shenme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="10dp"
+        android:text="@string/label_q"
+        android:textColor="@color/main" />
+
+    <TextView
+        android:id="@+id/shenme2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/shenme"
+        android:paddingLeft="10dp"
+        android:textColor="@color/main" />
+
+    <TextView
+        android:id="@+id/note_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/shenme"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="10dp"
+        android:text="sdfdlkh" />
+
+    <TextView
+        android:id="@+id/state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/green" />
+
+    <TextView
+        android:id="@+id/coin_number2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:layout_toRightOf="@+id/coin_number"
+
+        />
+
+    <TextView
+        android:id="@+id/coin_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/coin_number2"
+        android:layout_alignBottom="@+id/coin_number2"
+        android:paddingLeft="10dp"
+        android:text="@string/trade_note_account" />
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.android.support:viewpager-28.0.0-alpha1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../android/androidstudio/sdk/.android/build-cache/ccbe518aca13db1a939c1a7839044f91e352eeb7/output/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../android/androidstudio/sdk/.android/build-cache/ccbe518aca13db1a939c1a7839044f91e352eeb7/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/viewpager/28.0.0-alpha1/a0cf59b4857979ce01e1984f2da968fff6e5ed05/viewpager-28.0.0-alpha1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,1254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:2:1-718:12
+	package
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:7:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.INTERNET
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:16:5-85
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:16:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:31:22-81
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:33:5-71
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:33:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:37:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:38:5-81
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:38:22-78
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:39:22-71
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:41:22-72
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:42:5-95
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:42:22-92
+uses-feature#android.hardware.camera
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:44:5-60
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:44:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:45:5-70
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:45:19-67
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:48:5-82
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:48:22-79
+permission#byou.yadun.wallet.permission.C2D_MESSAGE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:50:5-52:47
+	android:protectionLevel
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:52:9-44
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:51:9-64
+uses-permission#byou.yadun.wallet.permission.C2D_MESSAGE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:54:5-80
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:54:22-77
+permission#byou.yadun.wallet.permission.MIPUSH_RECEIVE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:56:5-58:55
+	android:protectionLevel
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:58:9-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:57:9-67
+uses-permission#byou.yadun.wallet.permission.MIPUSH_RECEIVE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:60:5-83
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:60:22-80
+application
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:61:5-717:19
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.android\build-cache\857f673cc55787feb4768050bf8989eee33b1f86\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\3d51ca545e46da1ee63d5acd0d0196393b1230f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\56d8d55f6b7a9e49cd7c2e5997f61274e9f60c88\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\577f06b75d6e2d02a7d4852d9b868ac5651f62f9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\cffbf78473c26db349057c4454721e3da0ce2b08\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\697054ce5371c28bac7e1cdbfcb8eba72c476600\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d3c90a90d04b14ec7fb0ab892e1d0d91c3a2da55\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\84bffe2b973b303ae1e54ac07316aa0a1a695f15\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8248cbf0e798c16961750975b937b91115761b4a\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:65:9-41
+	android:supportsRtl
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:66:9-35
+	android:allowBackup
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:63:9-35
+	android:icon
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:64:9-43
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:67:9-40
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:62:9-55
+receiver#byou.yadun.wallet.receiver.StartServiceReceiver
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:69:9-76:20
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:69:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:70:13-75:29
+	android:priority
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:70:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:71:17-79
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:71:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:72:17-82
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:72:25-79
+category#android.intent.category.LAUNCHER
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:74:27-74
+receiver#com.hyphenate.chat.EMGCMBroadcastReceiver
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:79:9-88:20
+	android:exported
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:81:13-36
+	android:permission
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:82:13-73
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:80:13-69
+intent-filter#byou.yadun.wallet+com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:83:13-87:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:84:17-81
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:84:25-78
+category#byou.yadun.wallet
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:86:17-62
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:86:27-59
+service#com.hyphenate.chat.EMGCMListenerService
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:90:9-92:40
+	android:exported
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:92:13-37
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:91:13-67
+receiver#byou.yadun.wallet.receiver.GCMPushBroadCast
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:94:9-102:20
+	android:exported
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:96:13-37
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:95:13-54
+intent-filter#byou.yadun.wallet+com.hyphenate.sdk.push
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:97:13-101:29
+action#com.hyphenate.sdk.push
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:98:17-65
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:98:25-62
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:107:9-111:46
+	android:enabled
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:109:13-35
+	android:exported
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:110:13-36
+	tools:ignore
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:111:13-43
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:108:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:112:9-114:38
+	android:enabled
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:114:13-35
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:113:13-70
+receiver#com.hyphenate.chat.EMMipushReceiver
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:116:9-129:20
+	android:exported
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:118:13-36
+	tools:ignore
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:119:13-44
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:117:13-63
+intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:120:13-122:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:121:17-76
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:121:25-73
+intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:123:13-125:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:124:17-76
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:124:25-73
+intent-filter#com.xiaomi.mipush.ERROR
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:126:13-128:29
+action#com.xiaomi.mipush.ERROR
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:127:17-66
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:127:25-63
+meta-data#EASEMOB_APPKEY
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:131:9-133:53
+	android:value
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:133:13-50
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:132:13-42
+service#com.hyphenate.chat.EMChatService
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:135:9-137:39
+	android:exported
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:137:13-36
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:136:13-60
+service#com.hyphenate.chat.EMJobService
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:138:9-141:72
+	android:exported
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:140:13-36
+	android:permission
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:141:13-69
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:139:13-59
+receiver#com.hyphenate.chat.EMMonitorReceiver
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:143:9-153:20
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:143:19-70
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:144:13-147:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:145:17-80
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:145:25-77
+data
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:146:17-50
+	android:scheme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:146:23-47
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:149:13-152:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:151:17-77
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:151:25-74
+meta-data#com.huawei.hms.client.appid
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:156:9-158:41
+	android:value
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:158:13-38
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:157:13-55
+receiver#com.hyphenate.chat.EMHWPushReceiver
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:160:9-171:20
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:160:19-69
+intent-filter#com.huawei.android.push.intent.CLICK+com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION+com.huawei.intent.action.PUSH_STATE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:161:13-170:29
+action#com.huawei.android.push.intent.REGISTRATION
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:163:17-86
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:163:25-83
+action#com.huawei.android.push.intent.RECEIVE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:165:17-81
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:165:25-78
+action#com.huawei.android.push.intent.CLICK
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:167:17-79
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:167:25-76
+action#com.huawei.intent.action.PUSH_STATE
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:169:17-78
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:169:25-75
+receiver#com.huawei.hms.support.api.push.PushEventReceiver
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:173:9-178:20
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:173:19-83
+intent-filter#com.huawei.intent.action.PUSH
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:174:13-177:29
+action#com.huawei.intent.action.PUSH
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:176:17-72
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:176:25-69
+service#com.umeng.update.net.DownloadingService
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:182:9-184:53
+	android:process
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:184:13-50
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:183:13-67
+activity#com.umeng.update.UpdateDialogActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:186:9-188:75
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:188:13-72
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:187:13-65
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:192:9-194:64
+	android:value
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:194:13-61
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:193:13-52
+service#com.baidu.location.f
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:200:9-203:41
+	android:enabled
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:202:13-35
+	android:process
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:203:13-38
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:201:13-48
+activity#byou.yadun.wallet.wallet.SplashActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:220:9-225:20
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:220:19-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:221:13-224:29
+action#android.intent.action.MAIN
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:222:17-69
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:222:25-66
+activity#byou.yadun.wallet.MainActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:227:9-232:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:231:13-49
+	android:launchMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:230:13-44
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:232:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:229:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:228:13-58
+activity#byou.yadun.wallet.wallet.LoginActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:234:9-239:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:238:13-49
+	android:launchMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:237:13-44
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:239:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:236:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:235:13-66
+activity#byou.yadun.wallet.wallet.ForgetPasswordActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:241:9-245:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:244:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:245:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:243:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:242:13-75
+activity#byou.yadun.wallet.wallet.RegisterActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:247:9-251:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:250:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:251:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:249:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:248:13-69
+activity#byou.yadun.wallet.wallet.UserInfoActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:253:9-257:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:256:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:257:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:255:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:254:13-69
+activity#byou.yadun.wallet.wallet.AccountSearchActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:259:9-263:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:262:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:263:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:261:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:260:13-74
+activity#byou.yadun.wallet.wallet.ModificationPasswordActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:265:9-269:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:268:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:269:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:267:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:266:13-81
+activity#byou.yadun.wallet.wallet.ModificationPayPSActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:271:9-275:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:274:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:275:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:273:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:272:13-78
+activity#byou.yadun.wallet.wallet.FogetPayPasswordActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:277:9-281:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:280:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:281:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:279:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:278:13-77
+activity#byou.yadun.wallet.wallet.AboutUsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:283:9-287:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:286:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:287:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:285:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:284:13-68
+activity#byou.yadun.wallet.wallet.PayActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:289:9-293:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:292:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:293:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:291:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:290:13-64
+activity#byou.yadun.wallet.wallet.ReceiptActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:295:9-299:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:298:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:299:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:297:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:296:13-68
+activity#byou.yadun.wallet.wallet.TradeNoteActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:301:9-305:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:304:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:305:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:303:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:302:13-70
+activity#byou.yadun.wallet.wallet.TradeNoteDetailActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:307:9-311:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:310:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:311:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:309:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:308:13-76
+activity#byou.yadun.wallet.wallet.SendNoteDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:313:9-317:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:316:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:317:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:315:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:314:13-76
+activity#byou.yadun.wallet.wallet.WalletAddressActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:319:9-323:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:322:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:323:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:321:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:320:13-74
+activity#byou.yadun.wallet.wallet.WalletAddressDetailActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:325:9-329:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:328:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:329:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:327:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:326:13-80
+activity#byou.yadun.wallet.wallet.MyQRCodeActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:331:9-335:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:334:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:335:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:333:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:332:13-69
+activity#byou.yadun.wallet.wallet.ResultActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:337:9-341:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:340:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:341:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:339:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:338:13-67
+activity#byou.yadun.wallet.wallet.CaptureActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:343:9-347:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:346:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:347:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:345:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:344:13-68
+activity#byou.yadun.wallet.wallet.ConfirmPaymentActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:349:9-353:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:352:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:353:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:351:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:350:13-75
+activity#byou.yadun.wallet.wallet.PaymentExplainActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:355:9-359:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:358:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:359:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:357:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:356:13-75
+activity#byou.yadun.wallet.wallet.ReceiptExplainActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:361:9-365:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:364:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:365:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:363:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:362:13-75
+activity#byou.yadun.wallet.wallet.IncreaseAddressActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:367:9-371:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:370:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:371:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:369:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:368:13-76
+activity#byou.yadun.wallet.wallet.FastPayActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:374:9-378:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:377:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:378:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:376:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:375:13-68
+activity#byou.yadun.wallet.wallet.ShowSuccessActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:380:9-384:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:383:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:384:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:382:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:381:13-72
+activity#byou.yadun.wallet.wallet.ModificationAddressLabelActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:386:9-390:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:389:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:390:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:388:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:387:13-85
+activity#byou.yadun.wallet.wallet.FoodsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:392:9-396:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:395:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:396:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:394:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:393:13-66
+activity#byou.yadun.wallet.wallet.FoodsDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:398:9-402:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:401:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:402:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:400:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:399:13-73
+activity#byou.yadun.wallet.wallet.MovieActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:404:9-408:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:407:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:408:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:406:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:405:13-66
+activity#byou.yadun.wallet.wallet.MovieDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:410:9-414:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:413:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:414:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:412:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:411:13-73
+activity#byou.yadun.wallet.wallet.HotelActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:416:9-420:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:419:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:420:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:418:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:417:13-66
+activity#byou.yadun.wallet.wallet.HotelDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:422:9-426:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:425:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:426:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:424:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:423:13-73
+activity#byou.yadun.wallet.wallet.EntertainmentsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:428:9-432:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:431:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:432:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:430:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:429:13-75
+activity#byou.yadun.wallet.wallet.EntertainmentsDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:434:9-438:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:437:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:438:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:436:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:435:13-82
+activity#byou.yadun.wallet.wallet.KtvsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:440:9-444:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:443:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:444:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:442:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:441:13-65
+activity#byou.yadun.wallet.wallet.KtvsDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:446:9-450:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:449:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:450:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:448:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:447:13-72
+activity#byou.yadun.wallet.wallet.RimsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:452:9-456:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:455:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:456:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:454:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:453:13-65
+activity#byou.yadun.wallet.wallet.RimsDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:458:9-462:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:461:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:462:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:460:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:459:13-72
+activity#byou.yadun.wallet.wallet.BeautysActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:464:9-468:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:467:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:468:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:466:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:465:13-68
+activity#byou.yadun.wallet.wallet.BeautysDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:470:9-474:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:473:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:474:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:472:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:471:13-75
+activity#byou.yadun.wallet.wallet.SnacksActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:476:9-480:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:479:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:480:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:478:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:477:13-67
+activity#byou.yadun.wallet.wallet.SnacksDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:482:9-486:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:485:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:486:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:484:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:483:13-74
+activity#byou.yadun.wallet.wallet.MapActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:488:9-492:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:491:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:492:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:490:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:489:13-64
+activity#byou.yadun.wallet.wallet.Transaction.QuotationActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:495:9-499:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:498:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:499:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:497:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:496:13-82
+activity#byou.yadun.wallet.Chat.ChatActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:501:9-505:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:504:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:505:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:503:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:502:13-63
+activity#byou.yadun.wallet.Chat.VoiceCallActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:507:9-511:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:510:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:511:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:509:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:508:13-68
+activity#byou.yadun.wallet.Chat.VideoCallActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:513:9-517:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:516:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:517:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:515:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:514:13-68
+activity#byou.yadun.wallet.Chat.NewFriendsMsgActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:519:9-523:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:522:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:523:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:521:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:520:13-72
+activity#byou.yadun.wallet.Chat.GroupsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:525:9-529:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:528:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:529:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:527:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:526:13-65
+activity#com.hyphenate.easeui.ui.EaseBaiduMapActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:531:9-534:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:533:13-49
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:534:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:532:13-72
+activity#byou.yadun.wallet.Chat.AddContactActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:536:9-540:58
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:538:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:540:13-55
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:539:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:537:13-69
+activity#byou.yadun.wallet.Chat.UserProfileActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:542:9-545:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:544:13-49
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:545:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:543:13-70
+activity#com.easemob.redpacketui.ui.activity.RPRedPacketActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:548:9-553:68
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:551:13-49
+	android:launchMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:550:13-44
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:553:13-65
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:552:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:549:13-83
+activity#com.easemob.redpacketui.ui.activity.RPDetailActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:555:9-559:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:557:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:559:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:558:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:556:13-80
+activity#com.easemob.redpacketui.ui.activity.RPRecordActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:561:9-565:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:563:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:565:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:564:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:562:13-80
+activity#byou.yadun.wallet.Chat.EditImageActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:567:9-571:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:569:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:571:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:570:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:568:13-68
+activity#byou.yadun.wallet.Chat.RedBagActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:573:9-577:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:575:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:577:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:576:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:574:13-65
+activity#byou.yadun.wallet.Chat.ContextMenuActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:579:9-582:52
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:581:13-49
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:582:13-49
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:580:13-70
+activity#byou.yadun.wallet.Chat.MyCodeActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:584:9-588:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:587:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:588:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:586:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:585:13-65
+activity#byou.yadun.wallet.Chat.ForwardMessageActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:590:9-594:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:592:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:594:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:593:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:591:13-73
+activity#byou.yadun.wallet.Chat.RedBagDetalActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:596:9-600:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:598:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:600:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:599:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:597:13-70
+activity#com.hyphenate.easeui.ui.EaseShowBigImageActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:602:9-606:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:604:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:606:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:605:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:603:13-76
+activity#byou.yadun.wallet.Chat.ImageGridActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:608:9-612:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:610:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:612:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:611:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:609:13-68
+activity#byou.yadun.wallet.Chat.RecorderVideoActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:613:9-617:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:615:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:617:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:616:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:614:13-72
+activity#com.hyphenate.easeui.ui.EaseShowVideoActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:618:9-622:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:620:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:622:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:621:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:619:13-73
+activity#byou.yadun.wallet.Chat.NewGroupActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:624:9-628:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:626:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:628:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:627:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:625:13-50
+activity#byou.yadun.wallet.Chat.GroupPickContactsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:630:9-634:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:632:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:634:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:633:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:631:13-59
+activity#byou.yadun.wallet.Chat.GroupDetailsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:635:9-639:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:637:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:639:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:638:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:636:13-54
+activity#byou.yadun.wallet.Chat.EditActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:641:9-645:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:643:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:645:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:644:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:642:13-46
+activity#byou.yadun.wallet.Chat.ExitGroupDialog
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:647:9-651:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:649:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:651:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:650:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:648:13-49
+activity#byou.yadun.wallet.Chat.RobotsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:653:9-657:55
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:655:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:657:13-52
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:656:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:654:13-48
+activity#com.easemob.redpacketui.ui.activity.RPGroupMemberActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:659:9-663:67
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:661:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:663:13-64
+	android:theme
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:662:13-52
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:660:13-85
+activity#byou.yadun.wallet.Chat.RedBagGroupActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:665:9-669:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:668:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:669:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:667:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:666:13-53
+activity#byou.yadun.wallet.Chat.SharedFilesActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:671:9-675:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:674:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:675:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:673:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:672:13-53
+activity#byou.yadun.wallet.Chat.GroupSearchMessageActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:677:9-681:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:680:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:681:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:679:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:678:13-60
+activity#byou.yadun.wallet.Chat.PublicGroupsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:682:9-686:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:685:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:686:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:684:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:683:13-54
+activity#byou.yadun.wallet.Chat.GroupSimpleDetailActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:687:9-691:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:690:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:691:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:689:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:688:13-59
+activity#byou.yadun.wallet.Chat.PickAtUserActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:692:9-696:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:695:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:696:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:694:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:693:13-52
+activity#byou.yadun.wallet.Chat.SettingActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:697:9-701:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:700:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:701:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:699:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:698:13-49
+activity#byou.yadun.wallet.Chat.OfflinePushSettingsActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:702:9-706:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:705:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:706:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:704:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:703:13-61
+activity#byou.yadun.wallet.Chat.BlacklistActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:707:9-711:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:710:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:711:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:709:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:708:13-51
+activity#byou.yadun.wallet.Chat.PublicGroupsSeachActivity
+ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:712:9-716:63
+	android:screenOrientation
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:715:13-49
+	android:windowSoftInputMode
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:716:13-60
+	android:configChanges
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:714:13-63
+	android:name
+		ADDED from D:\CHATYDC\app\src\main\AndroidManifest.xml:713:13-59
+uses-sdk
+INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\fde1984de0134c758bb3dfb1f6ed4cc85e9b1403\output\AndroidManifest.xml:20:5-44
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.android\build-cache\857f673cc55787feb4768050bf8989eee33b1f86\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] C:\Users\Administrator\.android\build-cache\769c01b68f03a1bb68120d536c7ccd370e2b9e1c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] C:\Users\Administrator\.android\build-cache\14928b20126969c5cbd47243f97fa949a688f2a3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mcxiaoke.viewpagerindicator:library:2.4.1] C:\Users\Administrator\.android\build-cache\04502c73b442d31797aa5e41682f15a21f41e6ea\output\AndroidManifest.xml:3:5-72
+MERGED from [CHATYDC:redpacketlibrary:unspecified] D:\CHATYDC\redpacketlibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\e2da80168e7771f3ffa9b94b33e8c9d48f983b24\output\AndroidManifest.xml:18:5-42
+MERGED from [com.hyphenate.redpacket:redpacket-alipay:1.1.2] C:\Users\Administrator\.android\build-cache\eddf90baafe4ce85335339212521fc65b096d4e4\output\AndroidManifest.xml:8:5-10:41
+MERGED from [CHATYDC:easeui:unspecified] D:\CHATYDC\easeui\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\3d51ca545e46da1ee63d5acd0d0196393b1230f0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\56d8d55f6b7a9e49cd7c2e5997f61274e9f60c88\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\577f06b75d6e2d02a7d4852d9b868ac5651f62f9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\cffbf78473c26db349057c4454721e3da0ce2b08\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\697054ce5371c28bac7e1cdbfcb8eba72c476600\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d3c90a90d04b14ec7fb0ab892e1d0d91c3a2da55\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\84bffe2b973b303ae1e54ac07316aa0a1a695f15\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8248cbf0e798c16961750975b937b91115761b4a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CHATYDC\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\fde1984de0134c758bb3dfb1f6ed4cc85e9b1403\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\627aaf4f2ce14f80bd80a9fa593e68f1f631f86c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\3d51ca545e46da1ee63d5acd0d0196393b1230f0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\56d8d55f6b7a9e49cd7c2e5997f61274e9f60c88\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\577f06b75d6e2d02a7d4852d9b868ac5651f62f9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\cffbf78473c26db349057c4454721e3da0ce2b08\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\697054ce5371c28bac7e1cdbfcb8eba72c476600\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d3c90a90d04b14ec7fb0ab892e1d0d91c3a2da55\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\84bffe2b973b303ae1e54ac07316aa0a1a695f15\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8248cbf0e798c16961750975b937b91115761b4a\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\fde1984de0134c758bb3dfb1f6ed4cc85e9b1403\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\fde1984de0134c758bb3dfb1f6ed4cc85e9b1403\output\AndroidManifest.xml:23:9-47

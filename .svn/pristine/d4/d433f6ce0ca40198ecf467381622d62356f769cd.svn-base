@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_shop_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_shop_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_new_friends_icon.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_new_friends_icon.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_027_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_027_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\redbagani.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\redbagani.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_007_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_007_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_smiley_minus_btn_nor.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_smiley_minus_btn_nor.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_021_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_021_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_unread_count_bg.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_unread_count_bg.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_create_group.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_create_group.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_mm_title_act_btn_normal.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_mm_title_act_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_home_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_home_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\04502c73b442d31797aa5e41682f15a21f41e6ea\\output\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\splash.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_camera_switch_pressed.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_camera_switch_pressed.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_024_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_024_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_add.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_add.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_profile_headphoto_update_icon.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_profile_headphoto_update_icon.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_mainmenu.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_mainmenu.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_video_recorder_stop_btn.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_video_recorder_stop_btn.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_gold.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_gold.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_search_bar_icon_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_search_bar_icon_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_msg_state_fail_resend.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_msg_state_fail_resend.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_game.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\ic_game.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\splashby.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\splashby.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\04502c73b442d31797aa5e41682f15a21f41e6ea\\output\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_smiley_minus_btn_pressed.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_smiley_minus_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_ic_right_arrow.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_ic_right_arrow.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_update_close_bg_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_smiley_add_btn_pressed.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_smiley_add_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\background_redbag.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\background_redbag.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_maintitle.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_maintitle.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_mm_title_act_btn_pressed.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_mm_title_act_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_seabar_input.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_seabar_input.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_roominfo_add_btn_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_roominfo_add_btn_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_settings_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_settings_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_conversation_selected.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_conversation_selected.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_around_blue.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\ic_around_blue.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_018_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_018_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_huanlin.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\ic_huanlin.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\zf.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\zf.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_smiley_add_btn_nor.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_smiley_add_btn_nor.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_035_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_035_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_logo_uidemo.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_logo_uidemo.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_fabi.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_fabi.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_contact_list_selected.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_contact_list_selected.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_add_public_group.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_add_public_group.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_shop_red.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\ic_shop_red.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_update_close_bg_tap.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_mainreceive.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_mainreceive.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_roominfo_add_btn_pressed.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_roominfo_add_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_dx_checkbox_on.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_dx_checkbox_on.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_default_avatar.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_default_avatar.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\logo.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_shake_blue.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\ic_shake_blue.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_mainwallet.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_mainwallet.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_pay.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_pay.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_settings_selected.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_settings_selected.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_mm_title_back.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_mm_title_back.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\splash111.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\splash111.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_app_pref_bg.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_app_pref_bg.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_022_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_022_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_money1.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_money1.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_019_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_019_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_012_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_012_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_002_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_002_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_029_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_029_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_empty_photo.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_empty_photo.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_actionbar_camera_icon.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_actionbar_camera_icon.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_regbag.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_regbag.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_to_group_details_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_to_group_details_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\04502c73b442d31797aa5e41682f15a21f41e6ea\\output\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_show_head_toast_bg.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_show_head_toast_bg.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_013_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_013_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_home_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_home_select.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_groups_icon.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_groups_icon.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_conversation_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_conversation_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_mainrecode.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_mainrecode.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_icon_pwd.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_icon_pwd.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_030_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_030_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_dx_checkbox_gray_on.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_dx_checkbox_gray_on.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_040_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_040_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_dx_checkbox_off.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_dx_checkbox_off.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\04502c73b442d31797aa5e41682f15a21f41e6ea\\output\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_video_recorder_start_btn.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_video_recorder_start_btn.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_scan_blue.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\ic_scan_blue.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_010_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_010_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_welcom_logo.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_welcom_logo.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_mainsend.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_mainsend.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_contact_list_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_contact_list_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_020_cover.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_020_cover.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_shop_select.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_shop_select.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_friend_circle.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\ic_friend_circle.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\04502c73b442d31797aa5e41682f15a21f41e6ea\\output\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_btn_style_alert_dialog_background.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_btn_style_alert_dialog_background.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_money2.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\icon_money2.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\04502c73b442d31797aa5e41682f15a21f41e6ea\\output\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_login_error_icon.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_login_error_icon.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_camera_switch_normal.9.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_camera_switch_normal.9.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\em_icon_account.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\drawable-hdpi\\em_icon_account.png"
+    }
+]

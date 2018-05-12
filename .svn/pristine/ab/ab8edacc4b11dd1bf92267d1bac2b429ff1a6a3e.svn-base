@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\icon_splash1.jpg",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_splash1.jpg"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\icon_uesr_bg.jpg",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_uesr_bg.jpg"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\icon_login.jpg",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_login.jpg"
+    }
+]

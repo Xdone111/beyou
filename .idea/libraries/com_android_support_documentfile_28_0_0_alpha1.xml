@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.android.support:documentfile-28.0.0-alpha1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../android/androidstudio/sdk/.android/build-cache/76c843cd6f3c0d00804ccff7167001b7ee5babb3/output/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../android/androidstudio/sdk/.android/build-cache/76c843cd6f3c0d00804ccff7167001b7ee5babb3/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/documentfile/28.0.0-alpha1/e7191684a4cf0cd557f7507ac961558e083049d6/documentfile-28.0.0-alpha1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

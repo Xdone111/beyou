@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\project\\Beyou\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\xdone\\android\\androidstudio\\sdk\\.android\\build-cache\\f3521de5d427ab2ec84d416d80a4bf9dcb04f88e\\output\\res\\drawable-mdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\project\\Beyou\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\xdone\\android\\androidstudio\\sdk\\.android\\build-cache\\f3521de5d427ab2ec84d416d80a4bf9dcb04f88e\\output\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\project\\Beyou\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\xdone\\android\\androidstudio\\sdk\\.android\\build-cache\\f3521de5d427ab2ec84d416d80a4bf9dcb04f88e\\output\\res\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\project\\Beyou\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\xdone\\android\\androidstudio\\sdk\\.android\\build-cache\\f3521de5d427ab2ec84d416d80a4bf9dcb04f88e\\output\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\project\\Beyou\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\xdone\\android\\androidstudio\\sdk\\.android\\build-cache\\f3521de5d427ab2ec84d416d80a4bf9dcb04f88e\\output\\res\\drawable-mdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\project\\Beyou\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\xdone\\android\\androidstudio\\sdk\\.android\\build-cache\\f3521de5d427ab2ec84d416d80a4bf9dcb04f88e\\output\\res\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png"
+    }
+]

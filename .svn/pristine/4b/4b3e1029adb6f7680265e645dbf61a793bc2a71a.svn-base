@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\logo4.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\logo4.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_code.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_code.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_note.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_note.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_selected_gray.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_selected_gray.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_fabi.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_fabi.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_mulu.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_mulu.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\yadun.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\yadun.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_white_2.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_white_2.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_gou.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_gou.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_add_two.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_add_two.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_eye_normal.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_eye_normal.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_hotel.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_hotel.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_ktv.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_ktv.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_beauty.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_beauty.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_success.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_success.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_splash.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_splash.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_fangdajing.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_fangdajing.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_snack.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_snack.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_arrows.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_arrows.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_gcoding.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_exit.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_exit.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\xlistview_arrow.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_foods.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_foods.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_pay.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_pay.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_qwq.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_qwq.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_address.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_transport.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_transport.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_close.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_close.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_ps.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_ps.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\yadun_03.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\yadun_03.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_movie.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_movie.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_eye_press.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_eye_press.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_play.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_play.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_login1.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_login1.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_logo.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_logo.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_b.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_b.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\iocn_rim.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\iocn_rim.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_aboutus.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_aboutus.png"
+    },
+    {
+        "merged": "D:\\CHATYDC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_phone.png",
+        "source": "D:\\CHATYDC\\app\\src\\main\\res\\mipmap-mdpi\\icon_phone.png"
+    }
+]
